@@ -1,0 +1,13 @@
+.root {
+	width: 200px;
+	height: 350px;
+	background-color: #3a3a3a;
+	border: 2px solid #d4d3d3;
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	.title {
+		font-size: 24px;
+	}
+}
